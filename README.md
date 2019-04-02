@@ -9,7 +9,10 @@ In the end, you'll see your results and have the chance to play again!
 Built with:
 
 jQuery
+
 Vanilla JS
+
 HTML
+
 CSS
 
