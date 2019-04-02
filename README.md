@@ -16,3 +16,6 @@ HTML
 
 CSS
 
+----------------------------------------
+See the game here: https://marykwong.github.io/TriviaGame/
+
